@@ -54,5 +54,6 @@ public class SuperKarel extends KarelTheRobot {
 
     public void returnToStartingPoint() throws Exception {
         moveForwardWithRightTurn();
+        moveForwardWithRightTurn();
     }
 }
